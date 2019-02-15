@@ -31,7 +31,7 @@ class Detail extends Component {
           <Col size="md-10 md-offset-1">
             <article>
               <h1>Synopsis</h1>
-              <p>{this.state.book.synopsis}</p>heroku apps:
+              <p>{this.state.book.synopsis}</p>
             </article>
           </Col>
         </Row>
